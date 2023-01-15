@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  color: yellow;
+  font-family: "Press Start 2P";
+  font-size: 48px;
+}
+h2 {
+  color: white;
+  font-family: "Press Start 2P";
+  font-size: 38px;
+}
